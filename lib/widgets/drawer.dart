@@ -39,7 +39,7 @@ class MobileMenu extends StatelessWidget {
                 child: Align(
                   alignment: Alignment.bottomCenter,
                   child: Text(
-                    'Copyright © 2020 | Santos Enoque',
+                    'Copyright © 2022 | Mihir Pesswani',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 14,
